@@ -5,143 +5,140 @@ Use BetterTouchTool to make TouchBar better.
 
 - Button 1
 ```
-Toggle BetterTouchTool on Touch Bar
+Tap: ESC
+Long Press: Toggle BetterTouchBar
 ```
 
 - Button 2
 ```
-Tap: ESC
-Long Press: Screen Saver
-```
-
-- Button 3
-```
-Tap: Dock (Press the back button on the left to back)
+Tap: Dock (Press the back button on the left to back; long press to toggle BTT)
 ```
 ![p2](Dock.png)
 ```
 Long Press: Open your work folder
 ```
 
-- Button 4
+- Button 3
 ```
 Tap: Move window to left side of screen
 Long Press: Move window to left slide of screen
 ```
 
-- Button 5
+- Button 4
 ```
 Tap: Move window to right side of screen
 Long Press: Move window to right slide of screen
 ```
 
-- Button 6
+- Button 5
 ```
 Tap: Maxmize window
 Long Press: Fullscreen
 ```
 
-- Button 7
+- Button 6
 ```
 Tap: Revert window to original size 
 Long Press: Move window to center of screen
 ```
 
-- Button 8
+- Button 7
 ```
 Tap: Resize window to 960*600
 Long Press: Resize window to 1280*800
 ```
 
-- Button 9
+- Button 8
 ```
 Tap: Save
 Long Press: Save as...
 ```
 
-- Button 10
+- Button 9
 ```
 Tap: New window
 Long Press: New tab
 ```
 
-- Button 11
+- Button 10
 ```
 Tap: Close window/tab
 Long Press: Quit App
 ```
 
-- Button 12
+- Button 11
 ```
 Tap: Hide window
 Long Press: Minimize window
 ```
 
-- Button 13
+- Button 12
 ```
 Tap: Delete selected file
 Long Press: Empty trash
 ```
 
-- Button 14
+- Button 13
 ```
 Tap: Eject selected disk
 Long Press: Eject all disks
 ```
 
-- Button 15
+- Button 14
 ```
 Tap: Add files to Yoink
+Long Press: ScreenSaver
 ```
 
-- Button 16
+- Button 15
 ```
 Tap: Toggle dark mode
 Long Press: Toggle Night Shift
 ```
 
-- Button 17
+- Button 16
 ```
 Tap: Hide menu items on the left of bettertouchtool icon
 Long Press: Toggle Do Not Disturb
 ```
 
-- Button 18
+- Button 17
 ```
 Tap: Mute/Unmute
-Long Press: Show Brightness and Volume slide bars
+Long Press: Show Brightness and Volume slide bars (Press the back button on the left to back; long press to toggle BTT)
 ```
 ![p3](Slide.png)
 
 
-- Button 19
+- Button 18
 ```
 Tap: Connect/Disconnect your Airpods 
 ```
 (Need to install [BluetoothConnector](https://github.com/lapfelix/BluetoothConnector))
 
 
-- Button 20
+- Button 19
 ```
 Tap: Pause/Play music
 Long Press: Next track
 ```
 
-- Button 21
+- Button 20
 ```
 Tap: Toggle input method between 简体中文 & ひらがな
 ```
 (Need to install [im-select](https://github.com/daipeihust/im-select))
 ```
-Long Press: Show Emoji Bar
+Long Press: Show Emoji Bar (Press the back button on the left to back; long press to toggle BTT)
 ```
+![p4](Emoji.png)
 
-- Button 22
+- Button 21
 ```
 Show Current Date and Time
-Tap: Show Widget (Tap any item to back)
+Tap: Show Widget (Tap any item to back; long press to toggle BTT)
 ```
-![p4](Widget.png)
+![p5](Widget.png)
 ```
-Weather / Battery Status / Battery Percentage / Battery Health / Battery Temperature / System Uptime / External IP / Calendar
+Weather / Battery Status / Battery Percentage / Battery Health / Battery Temperature / System Uptime / External IP / Calendar / Magic Mouse Battery
 ```
